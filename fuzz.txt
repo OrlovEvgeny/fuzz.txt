@@ -4537,3 +4537,7 @@ zipkin/
 zone-h.php
 ~/
 ~admin/
+api/stat/go
+api/stat/app
+sys/stats
+metrics
